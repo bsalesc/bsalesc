@@ -1,3 +1,3 @@
 ### Hey, I'm Bruno.
 
-#### Software Engineer.
+#### Software Engineer
